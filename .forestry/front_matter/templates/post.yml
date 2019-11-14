@@ -42,5 +42,4 @@ fields:
     required: true
 pages:
 - src/pages/posts/envoy-proxy-matt-klein.md
-- src/pages/posts/best-waves-surfing-spain.md
 - src/pages/posts/basic-rules-for-walking-in-the-mountains.md
