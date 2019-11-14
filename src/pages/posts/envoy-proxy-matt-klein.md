@@ -3,7 +3,7 @@ title: Envoy Proxy - Matt Klein
 subtitle: Eric Anderson and Matt Klein discuss the beginnings of Envoy Proxy, an open
   source project now governed by the CNCF. Matt is a software engineer at Lyft and
   creator of the project.
-date: 2019-11-01T13:00:00Z
+date: 2019-11-14T14:00:00Z
 thumb_img_path: "/images/0_p2o7FPqs2rUyxH9A.png"
 content_img_path: ''
 excerpt: Eric Anderson and Matt Klein discuss the beginnings of Envoy Proxy, an open
