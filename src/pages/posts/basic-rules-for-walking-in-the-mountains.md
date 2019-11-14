@@ -3,7 +3,9 @@ title: Alluxio - Haoyuan (HY) Li
 date: 2019-11-01T13:00:00Z
 thumb_img_path: "/images/91fd746b4b8db0645b39ba93aed4d8a9.png"
 content_img_path: ''
-excerpt: ''
+excerpt: Eric Anderson hosts Haoyuan Li, also known as HY, creator of Alluxio, an
+  open source project and the company of the same name. HY is also a Spark committer
+  and creator of Spark Streaming.
 template: post
 subtitle: Eric Anderson hosts Haoyuan Li, also known as HY, creator of Alluxio, an
   open source project and the company of the same name. HY is also a Spark committer
@@ -11,8 +13,6 @@ subtitle: Eric Anderson hosts Haoyuan Li, also known as HY, creator of Alluxio, 
 canonical_url: ''
 
 ---
-Eric Anderson hosts Haoyuan Li, also known as HY, creator of Alluxio, an open source project and the company of the same name. HY is also a Spark committer and creator of Spark Streaming.
-
 Eric Anderson: ([00:03](https://www.rev.com/transcript-editor/Edit?token=YVnd3AnRMo64gfOqGVEWY-IIDooxEKKiVJHvm2vcfUs5yWUjSvJqvxqdMBXrFpmjdb6y5-tlfOdDextIgBe8_9HACwk&loadFrom=PastedDeeplink&ts=3.92))  
 This is the contributor featuring the stories behind the best open source projects and their communities. I'm Eric Anderson and today I'm joined by H Y the creator of Alluxio, an open source data orchestration solution. As an aside, Alluxio is hosting the first open source data orchestration summit next week, November 7th, in the computer history museum in Mountain View, you can get a 50% discount if you use the promo code: Erik, my first name. H Y., welcome to the show. Why don't we start by having you tell us about day one at Alluxio day.
 
