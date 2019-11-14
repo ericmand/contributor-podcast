@@ -6,7 +6,7 @@ sections:
   section_id: hero
   component: HeroBlock
   content: Open source origin stories
-  title: ''
+  title: Contributor
   actions: []
 - type: contentblock
   template: contentblock
