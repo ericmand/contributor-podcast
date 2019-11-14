@@ -41,5 +41,6 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/alluxio-haoyuan-hy-li.md
 - src/pages/posts/envoy-proxy-matt-klein.md
 - src/pages/posts/basic-rules-for-walking-in-the-mountains.md
