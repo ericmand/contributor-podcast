@@ -14,9 +14,8 @@ sections:
   section_id: about
   actions: []
   component: ContentBlock
-  content: Contributor was created by Eric Anderson, an open source enthusiast, investor
-    and product-guy. It aspires to be run by a community so reach out if you are interested
-    in helping.
+  content: Created by Eric Anderson, an open source enthusiast and investor, Contributor
+    aspires to be community operated. Reach out if you are interested in helping.
   image: ''
 - type: postsblock
   template: postsblock
