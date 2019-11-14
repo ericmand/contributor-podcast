@@ -22,7 +22,7 @@ sections:
   section_id: recent-episodes
   actions:
   - label: View episodes
-    url: podcast/index.html
+    url: blog/index.html
   component: PostsBlock
   num_posts_displayed: 4
 menus:
