@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: Where it all began
+subtitle: ''
 img_path: ''
 menus:
   main:
@@ -9,6 +9,4 @@ menus:
 template: page
 
 ---
-Contributor was created by Eric Anderson, an open source enthusiast, investor and product-guy. It aspires to be run by a community so reach out if you are interested in helping.
-
-_Thank You for listening!_
+Created by Eric Anderson, an open source enthusiast and investor, Contributor aspires to be community operated. Reach out if you are interested in helping.
