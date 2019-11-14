@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: A podcast of open source origin stories
+  content: The origin stories behind the best open source projects and communities.
   title: Contributor
   actions: []
 - type: contentblock
