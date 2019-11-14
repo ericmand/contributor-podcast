@@ -13,7 +13,7 @@ template: post
 canonical_url: ''
 
 ---
-During the conversation Matt mentions [Finagle](http://twitter.github.io/finagle/), [NginX](https://nginx.org/en/), [Hystrix](https://github.com/Netflix/Hystrix), [HA Proxy](http://www.haproxy.org/) and [Istio](https://anchor.fm/dashboard/episode/istio.io). This conversation was recorded several months prior to being published.
+During the conversation Matt mentions [Finagle](http://twitter.github.io/finagle/), [NginX](https://nginx.org/en/), [Hystrix](https://github.com/Netflix/Hystrix), [HA Proxy](http://www.haproxy.org/) and [Istio](https://anchor.fm/dashboard/episode/istio.io). It was recorded several months prior to being published.
 
 Eric Anderson: ([00:00](https://www.rev.com/transcript-editor/Edit?token=iTkz0DyOi0TmmuxbwRYO_FbBXie2kdeW6rPi_OnuQsagxZXpludMSRTbbW1dICcLulk7TdN8Ckm7cJCzdzKZhXr9Knw&loadFrom=PastedDeeplink&ts=0.94))  
 Today, we are discussing Envoy, an open source edge and service proxy designed for cloud native applications. I'm joined by Matt Klein, a software engineer at Lyft and creator of the project. Matt, you started Envoy in mid 2016 since then has become the 11th project to join the cloud native computing foundation received 3000 commits from 230 contributors. It's been starred by 7,000 GitHub users. How did we get here? How did this all begin?
