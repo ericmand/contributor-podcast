@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: Open source origin stories
+  content: A podcast of open source origin stories
   title: Contributor
   actions: []
 - type: contentblock
@@ -14,7 +14,9 @@ sections:
   section_id: about
   actions: []
   component: ContentBlock
-  content: ''
+  content: Contributor was created by Eric Anderson, an open source enthusiast, investor
+    and product-guy. It aspires to be run by a community so reach out if you are interested
+    in helping.
   image: ''
 - type: postsblock
   template: postsblock
